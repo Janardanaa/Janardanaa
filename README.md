@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Janardanaa
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning web design
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Web Design Mini Project
+- 📫 You can reach me via instagram @janarrdn or email on bio
 
 <!---
 Janardanaa/Janardanaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
